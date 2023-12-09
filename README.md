@@ -16,6 +16,5 @@ Eğitim ve Eğlenceyi Birleştirmek:
 
 Proje, eğitim ile eğlenceyi bir araya getirerek çocukların öğrenmeyi sıkıcı olmaktan çıkarıp keyifli bir deneyim haline getirmeyi hedefler.
 
-HTML
-<img src="https://github.com/bilgekul/YMGK-AR/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-11-09%20120713.png" alt="alt text" width="320" height="180">
+<img src="https://github.com/bilgekul/YMGK-AR/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-11-09%20120713.png" alt="alt text" width="600" height="400">
 
